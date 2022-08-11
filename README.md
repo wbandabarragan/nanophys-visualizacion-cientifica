@@ -6,18 +6,22 @@
 
 Este taller, que es parte del evento: "NANOPHYS Day Vol.1: From Nano to Astrophysics", tiene como objectivo desarrollar rutinas básicas de Python para realizar análisis de datos y visualización científica. Está orientado a estudiantes de los primeros semestres de carreras de ciencia. El taller tiene una duración de 3 horas. Al final del taller, l@s estudiantes serán capacez de leer archivos de datos, realizar e interpretar gráficas, y exportar imágenes, utilizando rutinas de Python.
 
-## Programa:
+## Programa del taller:
 
 ### Actividades preliminares:
 https://github.com/wbandabarragan/nanophys-visualizacion-cientifica/blob/main/01-preliminary-activities.md
 
-#### Sesión 1: Python para Física (13:00 - 14:20)
-Python, Google Colab, y Jupyter<br />
-Archivos de datos y gráficas 1D<br />
+### Sesión 1: Python para Física (13:00 - 14:20)
 
-#### Sesión 2: Visualización con Python (14:40 - 16:00)
-Imágenes científicas<br />
-Gráficas 2D y animaciones<br />
+- Python, Google Colab, y Jupyter<br />
+
+- Archivos de datos y gráficas 1D<br />
+
+### Sesión 2: Visualización con Python (14:40 - 16:00)
+
+- Imágenes científicas<br />
+
+- Gráficas 2D y animaciones<br />
 
 ## Sobre el evento "NANOPHYS Day Vol.1: From Nano to Astrophysics"
 
